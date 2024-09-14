@@ -2,7 +2,7 @@
 
 /*
 
-sum_of_even_numbers: Write a program that calculates the sum of all even numbers between 1 and a given integer n (inclusive).
+sum_of_even_numbers: Write a program that calculates the sum of all even numbers.
 
 */
 
